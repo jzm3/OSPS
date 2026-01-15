@@ -1,0 +1,7 @@
+序号|存档编号（archive_no）|存档文件夹名称（folder_name）|图片1格式（img1_format）|图片2格式（img2_format）|下载链接文件（pwweb_path）|所属分组织（org）|备注
+1|330324.OSPS/0002:S3A|330324.OSPS.0002.S3A|jpg|jpg|cdjpgs/330324.OSPS.0002.S3A/pwweb.txt|S3A|S3A 项目保密协议存档
+2|330324.OSPS/0004:S3A|330324.OSPS.0004.S3A|png|jpg|cdjpgs/330324.OSPS.0004.S3A/pwweb.txt|S3A|S3A 项目开发规划存档
+3|330324.OSPS/D0001:OSPS|330324.OSPS.D0001.OSPS|png|png|cdjpgs/330324.OSPS.D0001.OSPS/pwweb.txt|OSPS|OSPS 总部核心文档D0001
+4|330324.OSPS/D0002:OSPS|330324.OSPS.D0002.OSPS|jpg|png|cdjpgs/330324.OSPS.D0002.OSPS/pwweb.txt|OSPS|OSPS 总部核心文档D0002
+5|330324.OSPS/D0100:OSPS|330324.OSPS.D0100.OSPS|jpg|jpg|cdjpgs/330324.OSPS.D0100.OSPS/pwweb.txt|OSPS|OSPS 总部批量文档D0100
+6|330324.OSPS/X0001:OSPS|330324.OSPS.X0001.OSPS|png|png|cdjpgs/330324.OSPS.X0001.OSPS/pwweb.txt|OSPS|OSPS 总部特殊文档X0001
